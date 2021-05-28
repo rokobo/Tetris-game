@@ -29,4 +29,4 @@ The enhanced version will have the following changes
 * There will be 10 unique pieces instead of the classic 7.
 ![New pieces](https://github.com/rokobo/Tetris-game/blob/master/data/pieces.png?raw=true)
 * The player can press `c` to get a 1x1 cheat piece, however, if the player has more than 100 points, there will be a 100 point penalty for cheating.
-![Cheat piece](https://github.com/rokobo/Tetris-game/blob/master/data/cheat_piece.png?raw=true)
+
