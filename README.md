@@ -1,7 +1,7 @@
 # Tetris implementation using Ruby
 In this project, an implementations of a custom Tetris will be made. This project's goal is to learn about subclassing, code reuse and the Ruby language.
 
-There will be a provided file with starting code, the implementation should follow the rules provided as follows:
+There will be a `runner.rb` to run the game from the command-line, a `graphics.rb` to display the game and a `provided.rb` file with starting code, the implementation should follow the rules provided as follows:
 
 ## Requirements for the game
 * Your game should have all the features of the original Tetris game, as well as the enhancements.
@@ -19,7 +19,7 @@ the ten pieces. It must not contain your cheat piece. It must be in the same for
 provided code.
 * All your new pieces, including your cheat piece, must use the same format as the provided pieces.
 
-* Do not use the Tk library directly in any way. The only use of Tk should occur indirectly by using instances of classes defined in `graphics`.rb as needed (only a little is needed). Do not have `require 'tk' in Tetris.rb`.
+* Do not use the Tk library directly in any way. The only use of Tk should occur indirectly by using instances of classes defined in `graphics.rb` as needed (only a little is needed). Do not have `require 'tk' in Tetris.rb`.
 
 ## Enhancements to the original game
 The enhanced version will have the following changes
