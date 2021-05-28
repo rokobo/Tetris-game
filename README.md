@@ -1,5 +1,5 @@
 # Tetris implementation using Ruby
-In this project, an implementations of a custom Tetris will be made. This project's goal is to learn about subclassing, code reuse and the Ruby language.
+In this project, an implementations of a custom Tetris will be made. This project's goal is to learn about subclassing, code reuse, analysis of another person's coding style and the Ruby language.
 
 There will be a `runner.rb` to run the game from the command-line, a `graphics.rb` to display the game and a `provided.rb` file with starting code, the implementation should follow the rules provided as follows:
 
